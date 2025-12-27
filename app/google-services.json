@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701264129881",
+    "project_id": "cravz-f94f2",
+    "storage_bucket": "cravz-f94f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701264129881:android:0d6cdc8b9e3673a9f12648",
+        "android_client_info": {
+          "package_name": "com.example.cravz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPXN3x_7SKltJ7IDc0DdXDZ1tg3c_QQDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
